@@ -21,7 +21,3 @@ Este proyecto fue desarrollado en el contexto de una asignatura de Ingeniería d
 - Visual Studio
 - Entity Framework (nivel básico)
 - Windows Forms
-
-## Estado del proyecto
-
-Proyecto académico funcional. Pensado como ejemplo de aplicación con arquitectura en capas. Ideal para continuar desarrollando funcionalidades o mejorar la interfaz.
