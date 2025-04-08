@@ -1,0 +1,12 @@
+C:\Users\ivana\OneDrive\Escritorio\carpeta\ProyectoPracticas\ClassLibrary\bin\Debug\GestAcaLib.dll.config
+C:\Users\ivana\OneDrive\Escritorio\carpeta\ProyectoPracticas\ClassLibrary\bin\Debug\GestAcaLib.dll
+C:\Users\ivana\OneDrive\Escritorio\carpeta\ProyectoPracticas\ClassLibrary\bin\Debug\GestAcaLib.pdb
+C:\Users\ivana\OneDrive\Escritorio\carpeta\ProyectoPracticas\ClassLibrary\bin\Debug\EntityFramework.dll
+C:\Users\ivana\OneDrive\Escritorio\carpeta\ProyectoPracticas\ClassLibrary\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ivana\OneDrive\Escritorio\carpeta\ProyectoPracticas\ClassLibrary\bin\Debug\EntityFramework.xml
+C:\Users\ivana\OneDrive\Escritorio\carpeta\ProyectoPracticas\ClassLibrary\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ivana\OneDrive\Escritorio\carpeta\ProyectoPracticas\ClassLibrary\obj\Debug\GestAcaLib.csproj.AssemblyReference.cache
+C:\Users\ivana\OneDrive\Escritorio\carpeta\ProyectoPracticas\ClassLibrary\obj\Debug\GestAcaLib.csproj.CoreCompileInputs.cache
+C:\Users\ivana\OneDrive\Escritorio\carpeta\ProyectoPracticas\ClassLibrary\obj\Debug\GestAcaLib.csproj.Up2Date
+C:\Users\ivana\OneDrive\Escritorio\carpeta\ProyectoPracticas\ClassLibrary\obj\Debug\GestAcaLib.dll
+C:\Users\ivana\OneDrive\Escritorio\carpeta\ProyectoPracticas\ClassLibrary\obj\Debug\GestAcaLib.pdb

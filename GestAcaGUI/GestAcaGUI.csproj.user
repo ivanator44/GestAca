@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="GestAcaAPP.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InfoCurso.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="InfoEstudiante.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="IntroducirDni.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaAlumnos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaAulas.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ListaCursos.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

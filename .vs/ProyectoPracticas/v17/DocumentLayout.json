@@ -1,0 +1,281 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF96F73-6F28-4425-9E7B-3B851C29028E}|ClassLibrary\\GestAcaLib.csproj|c:\\users\\ivana\\onedrive\\escritorio\\carpeta\\proyectopracticas\\classlibrary\\businesslogic\\entities\\taughtcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF96F73-6F28-4425-9E7B-3B851C29028E}|ClassLibrary\\GestAcaLib.csproj|solutionrelative:classlibrary\\businesslogic\\entities\\taughtcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF96F73-6F28-4425-9E7B-3B851C29028E}|ClassLibrary\\GestAcaLib.csproj|c:\\users\\ivana\\onedrive\\escritorio\\carpeta\\proyectopracticas\\classlibrary\\businesslogic\\entities\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF96F73-6F28-4425-9E7B-3B851C29028E}|ClassLibrary\\GestAcaLib.csproj|solutionrelative:classlibrary\\businesslogic\\entities\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF96F73-6F28-4425-9E7B-3B851C29028E}|ClassLibrary\\GestAcaLib.csproj|c:\\users\\ivana\\onedrive\\escritorio\\carpeta\\proyectopracticas\\classlibrary\\businesslogic\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF96F73-6F28-4425-9E7B-3B851C29028E}|ClassLibrary\\GestAcaLib.csproj|solutionrelative:classlibrary\\businesslogic\\entities\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF96F73-6F28-4425-9E7B-3B851C29028E}|ClassLibrary\\GestAcaLib.csproj|c:\\users\\ivana\\onedrive\\escritorio\\carpeta\\proyectopracticas\\classlibrary\\persistence\\entities\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF96F73-6F28-4425-9E7B-3B851C29028E}|ClassLibrary\\GestAcaLib.csproj|solutionrelative:classlibrary\\persistence\\entities\\classroom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84F7E37-B6C6-4DD4-A6E9-6C60DA42DA9D}|GestAcaGUI\\GestAcaGUI.csproj|c:\\users\\ivana\\onedrive\\escritorio\\carpeta\\proyectopracticas\\gestacagui\\listaaulas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84F7E37-B6C6-4DD4-A6E9-6C60DA42DA9D}|GestAcaGUI\\GestAcaGUI.csproj|solutionrelative:gestacagui\\listaaulas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84F7E37-B6C6-4DD4-A6E9-6C60DA42DA9D}|GestAcaGUI\\GestAcaGUI.csproj|c:\\users\\ivana\\onedrive\\escritorio\\carpeta\\proyectopracticas\\gestacagui\\listacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84F7E37-B6C6-4DD4-A6E9-6C60DA42DA9D}|GestAcaGUI\\GestAcaGUI.csproj|solutionrelative:gestacagui\\listacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84F7E37-B6C6-4DD4-A6E9-6C60DA42DA9D}|GestAcaGUI\\GestAcaGUI.csproj|c:\\users\\ivana\\onedrive\\escritorio\\carpeta\\proyectopracticas\\gestacagui\\listacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C84F7E37-B6C6-4DD4-A6E9-6C60DA42DA9D}|GestAcaGUI\\GestAcaGUI.csproj|solutionrelative:gestacagui\\listacursos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF96F73-6F28-4425-9E7B-3B851C29028E}|ClassLibrary\\GestAcaLib.csproj|c:\\users\\ivana\\onedrive\\escritorio\\carpeta\\proyectopracticas\\classlibrary\\businesslogic\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF96F73-6F28-4425-9E7B-3B851C29028E}|ClassLibrary\\GestAcaLib.csproj|solutionrelative:classlibrary\\businesslogic\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1CF96F73-6F28-4425-9E7B-3B851C29028E}|ClassLibrary\\GestAcaLib.csproj|c:\\users\\ivana\\onedrive\\escritorio\\carpeta\\proyectopracticas\\classlibrary\\persistence\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1CF96F73-6F28-4425-9E7B-3B851C29028E}|ClassLibrary\\GestAcaLib.csproj|solutionrelative:classlibrary\\persistence\\entities\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84F7E37-B6C6-4DD4-A6E9-6C60DA42DA9D}|GestAcaGUI\\GestAcaGUI.csproj|c:\\users\\ivana\\onedrive\\escritorio\\carpeta\\proyectopracticas\\gestacagui\\listaalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84F7E37-B6C6-4DD4-A6E9-6C60DA42DA9D}|GestAcaGUI\\GestAcaGUI.csproj|solutionrelative:gestacagui\\listaalumnos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84F7E37-B6C6-4DD4-A6E9-6C60DA42DA9D}|GestAcaGUI\\GestAcaGUI.csproj|c:\\users\\ivana\\onedrive\\escritorio\\carpeta\\proyectopracticas\\gestacagui\\introducirdni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{C84F7E37-B6C6-4DD4-A6E9-6C60DA42DA9D}|GestAcaGUI\\GestAcaGUI.csproj|solutionrelative:gestacagui\\introducirdni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84F7E37-B6C6-4DD4-A6E9-6C60DA42DA9D}|GestAcaGUI\\GestAcaGUI.csproj|c:\\users\\ivana\\onedrive\\escritorio\\carpeta\\proyectopracticas\\gestacagui\\introducirdni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84F7E37-B6C6-4DD4-A6E9-6C60DA42DA9D}|GestAcaGUI\\GestAcaGUI.csproj|solutionrelative:gestacagui\\introducirdni.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84F7E37-B6C6-4DD4-A6E9-6C60DA42DA9D}|GestAcaGUI\\GestAcaGUI.csproj|c:\\users\\ivana\\onedrive\\escritorio\\carpeta\\proyectopracticas\\gestacagui\\infoestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84F7E37-B6C6-4DD4-A6E9-6C60DA42DA9D}|GestAcaGUI\\GestAcaGUI.csproj|solutionrelative:gestacagui\\infoestudiante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84F7E37-B6C6-4DD4-A6E9-6C60DA42DA9D}|GestAcaGUI\\GestAcaGUI.csproj|c:\\users\\ivana\\onedrive\\escritorio\\carpeta\\proyectopracticas\\gestacagui\\infocurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84F7E37-B6C6-4DD4-A6E9-6C60DA42DA9D}|GestAcaGUI\\GestAcaGUI.csproj|solutionrelative:gestacagui\\infocurso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C84F7E37-B6C6-4DD4-A6E9-6C60DA42DA9D}|GestAcaGUI\\GestAcaGUI.csproj|c:\\users\\ivana\\onedrive\\escritorio\\carpeta\\proyectopracticas\\gestacagui\\gestacaapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C84F7E37-B6C6-4DD4-A6E9-6C60DA42DA9D}|GestAcaGUI\\GestAcaGUI.csproj|solutionrelative:gestacagui\\gestacaapp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\ClassLibrary\\BusinessLogic\\Entities\\Course.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\BusinessLogic\\Entities\\Course.cs",
+              "ToolTip": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\ClassLibrary\\BusinessLogic\\Entities\\Course.cs",
+              "RelativeToolTip": "ClassLibrary\\BusinessLogic\\Entities\\Course.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:34:50.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\ClassLibrary\\BusinessLogic\\Entities\\Classroom.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\BusinessLogic\\Entities\\Classroom.cs",
+              "ToolTip": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\ClassLibrary\\BusinessLogic\\Entities\\Classroom.cs",
+              "RelativeToolTip": "ClassLibrary\\BusinessLogic\\Entities\\Classroom.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwB8AAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:32:52.494Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Classroom.cs",
+              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\ClassLibrary\\Persistence\\Entities\\Classroom.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Persistence\\Entities\\Classroom.cs",
+              "ToolTip": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\ClassLibrary\\Persistence\\Entities\\Classroom.cs",
+              "RelativeToolTip": "ClassLibrary\\Persistence\\Entities\\Classroom.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:32:49.072Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ListaAulas.cs",
+              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\GestAcaGUI\\ListaAulas.cs",
+              "RelativeDocumentMoniker": "GestAcaGUI\\ListaAulas.cs",
+              "ToolTip": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\GestAcaGUI\\ListaAulas.cs",
+              "RelativeToolTip": "GestAcaGUI\\ListaAulas.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAowDMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:31:52.649Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListaCursos.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\GestAcaGUI\\ListaCursos.cs",
+              "RelativeDocumentMoniker": "GestAcaGUI\\ListaCursos.cs",
+              "ToolTip": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\GestAcaGUI\\ListaCursos.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestAcaGUI\\ListaCursos.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:30:44.469Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TaughtCourse.cs",
+              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\ClassLibrary\\BusinessLogic\\Entities\\TaughtCourse.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\BusinessLogic\\Entities\\TaughtCourse.cs",
+              "ToolTip": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\ClassLibrary\\BusinessLogic\\Entities\\TaughtCourse.cs",
+              "RelativeToolTip": "ClassLibrary\\BusinessLogic\\Entities\\TaughtCourse.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:30:06.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\ClassLibrary\\BusinessLogic\\Entities\\Enrollment.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\BusinessLogic\\Entities\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\ClassLibrary\\BusinessLogic\\Entities\\Enrollment.cs",
+              "RelativeToolTip": "ClassLibrary\\BusinessLogic\\Entities\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:29:56.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\ClassLibrary\\Persistence\\Entities\\Enrollment.cs",
+              "RelativeDocumentMoniker": "ClassLibrary\\Persistence\\Entities\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\ClassLibrary\\Persistence\\Entities\\Enrollment.cs",
+              "RelativeToolTip": "ClassLibrary\\Persistence\\Entities\\Enrollment.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:29:51.541Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ListaCursos.cs",
+              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\GestAcaGUI\\ListaCursos.cs",
+              "RelativeDocumentMoniker": "GestAcaGUI\\ListaCursos.cs",
+              "ToolTip": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\GestAcaGUI\\ListaCursos.cs",
+              "RelativeToolTip": "GestAcaGUI\\ListaCursos.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAkwDEAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:29:24.242Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ListaAlumnos.cs",
+              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\GestAcaGUI\\ListaAlumnos.cs",
+              "RelativeDocumentMoniker": "GestAcaGUI\\ListaAlumnos.cs",
+              "ToolTip": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\GestAcaGUI\\ListaAlumnos.cs",
+              "RelativeToolTip": "GestAcaGUI\\ListaAlumnos.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:26:49.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IntroducirDni.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\GestAcaGUI\\IntroducirDni.cs",
+              "RelativeDocumentMoniker": "GestAcaGUI\\IntroducirDni.cs",
+              "ToolTip": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\GestAcaGUI\\IntroducirDni.cs [Dise\u00F1o]",
+              "RelativeToolTip": "GestAcaGUI\\IntroducirDni.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:26:26.785Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IntroducirDni.cs",
+              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\GestAcaGUI\\IntroducirDni.cs",
+              "RelativeDocumentMoniker": "GestAcaGUI\\IntroducirDni.cs",
+              "ToolTip": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\GestAcaGUI\\IntroducirDni.cs",
+              "RelativeToolTip": "GestAcaGUI\\IntroducirDni.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:26:17.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "InfoEstudiante.cs",
+              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\GestAcaGUI\\InfoEstudiante.cs",
+              "RelativeDocumentMoniker": "GestAcaGUI\\InfoEstudiante.cs",
+              "ToolTip": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\GestAcaGUI\\InfoEstudiante.cs",
+              "RelativeToolTip": "GestAcaGUI\\InfoEstudiante.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:26:09.48Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "InfoCurso.cs",
+              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\GestAcaGUI\\InfoCurso.cs",
+              "RelativeDocumentMoniker": "GestAcaGUI\\InfoCurso.cs",
+              "ToolTip": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\GestAcaGUI\\InfoCurso.cs",
+              "RelativeToolTip": "GestAcaGUI\\InfoCurso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:25:59.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GestAcaAPP.cs",
+              "DocumentMoniker": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\GestAcaGUI\\GestAcaAPP.cs",
+              "RelativeDocumentMoniker": "GestAcaGUI\\GestAcaAPP.cs",
+              "ToolTip": "C:\\Users\\ivana\\OneDrive\\Escritorio\\carpeta\\ProyectoPracticas\\GestAcaGUI\\GestAcaAPP.cs",
+              "RelativeToolTip": "GestAcaGUI\\GestAcaAPP.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-10T12:24:41.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
